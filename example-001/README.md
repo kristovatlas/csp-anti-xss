@@ -32,7 +32,7 @@ You can add GET parameters in the URL to reflect XSS. For example:
 
     http://127.0.0.1:8000/cgi-bin/xssmaker.py?a=%3Cscript%3Ealert(1)%3C/script%3E
 
-### output
+### Output
 
 In Firefox 48:
 
