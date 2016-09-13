@@ -1,6 +1,6 @@
 ## Description
 
-A web application vulnerable to reflected XSS that is vulnerable via the use of an attacker-controlled JavaScript function callback.
+A web application vulnerable to reflected XSS via the use of an attacker-controlled JavaScript function callback.
 
 ## Requirements
 
