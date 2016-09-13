@@ -12,7 +12,10 @@ A web application vulnerable to reflected XSS that allows browsers to block the 
 
 ### Starting the server
 
-    $ python -m CGIHTTPServer 8000
+```
+$ chmod -R +x *.py #make the Python web pages executable
+$ python -m CGIHTTPServer 8000
+```
 
 ### Configuring your browser
 
