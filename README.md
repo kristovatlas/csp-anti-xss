@@ -1,6 +1,6 @@
 ## Description
 
-This repo contains some rules for creating a CSP header that is effective at mitigating CSP, as well as some standalone sample web servers that show how bad headers can fail to mitigate.
+This repo contains some rules for creating a CSP header that is effective at mitigating XSS, as well as some standalone sample web servers that show how bad headers can fail to mitigate.
 
 Keep in mind that Content-Security-Policy is **not** a thorough security control, but is rather a partial mitigation that kicks in when developers fail to validate input and/or encode output.
 
