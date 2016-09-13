@@ -41,9 +41,9 @@ Firefox:
 
 ### Viewing in your browser
 
-Visit http://127.0.0.1:8000/
+Visit http://mytrusteddomain.com:8000/
 
-This will redirect you automatically to http://127.0.0.1/cgi-bin/xssmaker.py
+This will redirect you automatically to http://mytrusteddomain.com:8000/cgi-bin/xssmaker.py
 
 You can add GET parameters in the URL to reflect XSS. For example:
 
